@@ -1,0 +1,518 @@
+2022-02-07 11:09:11,482 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-07 11:09:33,939 - logger_File -INFO - scenario User verify all items are present in Desktops tab UNDEFINED
+2022-02-07 11:09:34,015 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-07 11:09:41,097 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-07 11:09:41,115 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-07 11:09:47,362 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-02-07 11:09:47,395 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item inDesktops tabStarted
+2022-02-07 11:09:54,037 - logger_File -INFO - scenario User add a review to Canon EOS 5D item inDesktops tab UNDEFINED
+2022-02-07 11:19:12,151 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-07 11:19:20,069 - logger_File -INFO - scenario User verify all items are present in Desktops tab PENDING
+2022-02-07 11:19:20,101 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-07 11:19:32,867 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart PENDING
+2022-02-07 11:19:32,877 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-07 11:19:39,310 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart PENDING
+2022-02-07 11:19:39,321 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item inDesktops tabStarted
+2022-02-07 11:19:44,117 - logger_File -INFO - scenario User add a review to Canon EOS 5D item inDesktops tab PENDING
+2022-02-07 11:24:58,835 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-07 11:25:05,830 - logger_File -INFO - scenario User verify all items are present in Desktops tab PASSED
+2022-02-07 11:25:05,847 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-07 11:25:12,013 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-02-07 11:25:12,021 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-07 11:25:17,863 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-07 11:25:17,873 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item inDesktops tabStarted
+2022-02-07 11:25:24,245 - logger_File -INFO - scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-02-08 10:22:38,964 - logger_File -INFO - scenarioRegister with Test Environment WebpageStarted
+2022-02-08 10:23:06,135 - logger_File -INFO - scenario Register with Test Environment Webpage UNDEFINED
+2022-02-08 23:33:39,978 - logger_File -INFO - scenarioAdd and Remove a Mac book from CartStarted
+2022-02-08 23:34:27,918 - logger_File -INFO - scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-02-08 23:34:28,088 - logger_File -INFO - scenarioProduct ComparisonStarted
+2022-02-08 23:34:47,899 - logger_File -INFO - scenario Product Comparison UNDEFINED
+2022-02-08 23:34:47,922 - logger_File -INFO - scenarioAdding an item to Wish listStarted
+2022-02-08 23:35:05,507 - logger_File -INFO - scenario Adding an item to Wish list UNDEFINED
+2022-02-08 23:35:05,517 - logger_File -INFO - scenarioValidate the price of MacBook Pro is 2000Started
+2022-02-08 23:35:13,691 - logger_File -INFO - scenario Validate the price of MacBook Pro is 2000 UNDEFINED
+2022-02-09 11:32:51,774 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-09 11:32:51,774 - logger_File -INFO - scenarioAdd and Remove a Mac book from CartStarted
+2022-02-09 11:33:53,357 - logger_File -INFO - scenario User verify all items are present in Desktops tab UNDEFINED
+2022-02-09 11:33:53,357 - logger_File -INFO - scenario Add and Remove a Mac book from Cart FAILED
+2022-02-09 11:33:53,414 - logger_File -INFO - scenarioProduct ComparisonStarted
+2022-02-09 11:33:53,423 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-09 11:34:21,116 - logger_File -INFO - scenario Product Comparison PASSED
+2022-02-09 11:34:21,116 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-09 11:34:21,283 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-09 11:34:21,387 - logger_File -INFO - scenarioAdding an item to Wish listStarted
+2022-02-09 11:34:40,453 - logger_File -INFO - scenario Adding an item to Wish list PASSED
+2022-02-09 11:34:40,462 - logger_File -INFO - scenarioValidate the price of MacBook Pro is 2000Started
+2022-02-09 11:34:40,562 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-02-09 11:34:40,581 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item inDesktops tabStarted
+2022-02-09 11:35:00,348 - logger_File -INFO - scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-09 11:35:00,547 - logger_File -INFO - scenario User add a review to Canon EOS 5D item inDesktops tab UNDEFINED
+2022-02-09 16:41:39,129 - logger_File -INFO - scenarioLogin to Test Environment Retail PageStarted
+2022-02-09 16:42:02,885 - logger_File -INFO - scenario Login to Test Environment Retail Page UNDEFINED
+2022-02-09 16:42:04,253 - logger_File -INFO - scenarioLogin to Test Environment Retail PageStarted
+2022-02-09 16:42:16,056 - logger_File -INFO - scenario Login to Test Environment Retail Page UNDEFINED
+2022-02-09 16:42:16,072 - logger_File -INFO - scenarioLogin to Test Environment Retail PageStarted
+2022-02-09 16:42:23,291 - logger_File -INFO - scenario Login to Test Environment Retail Page UNDEFINED
+2022-02-09 16:42:23,312 - logger_File -INFO - scenarioLogin to Test Environment Retail PageStarted
+2022-02-09 16:42:31,508 - logger_File -INFO - scenario Login to Test Environment Retail Page UNDEFINED
+2022-02-09 16:42:31,542 - logger_File -INFO - scenarioRegister with Test Environment WebpageStarted
+2022-02-09 16:42:38,165 - logger_File -INFO - scenario Register with Test Environment Webpage UNDEFINED
+2022-02-09 16:47:32,158 - logger_File -INFO - scenarioLogin to Test Environment Retail PageStarted
+2022-02-09 16:47:40,071 - logger_File -INFO - scenario Login to Test Environment Retail Page UNDEFINED
+2022-02-09 16:47:40,199 - logger_File -INFO - scenarioLogin to Test Environment Retail PageStarted
+2022-02-09 16:47:47,736 - logger_File -INFO - scenario Login to Test Environment Retail Page UNDEFINED
+2022-02-09 16:47:47,753 - logger_File -INFO - scenarioLogin to Test Environment Retail PageStarted
+2022-02-09 16:47:55,046 - logger_File -INFO - scenario Login to Test Environment Retail Page UNDEFINED
+2022-02-09 16:47:55,065 - logger_File -INFO - scenarioLogin to Test Environment Retail PageStarted
+2022-02-09 16:48:01,274 - logger_File -INFO - scenario Login to Test Environment Retail Page UNDEFINED
+2022-02-09 16:48:01,311 - logger_File -INFO - scenarioRegister with Test Environment WebpageStarted
+2022-02-09 16:48:06,566 - logger_File -INFO - scenario Register with Test Environment Webpage UNDEFINED
+2022-02-09 18:37:39,156 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-09 18:38:13,298 - logger_File -INFO - scenario User verify all items are present in Desktops tab UNDEFINED
+2022-02-09 18:38:13,486 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-09 18:38:23,849 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-09 18:38:23,928 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-09 18:38:33,593 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-02-09 18:38:33,617 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item inDesktops tabStarted
+2022-02-09 18:38:41,283 - logger_File -INFO - scenario User add a review to Canon EOS 5D item inDesktops tab UNDEFINED
+2022-02-09 18:40:34,824 - logger_File -INFO - scenarioUser verify currency values changeStarted
+2022-02-09 18:40:48,946 - logger_File -INFO - scenario User verify currency values change UNDEFINED
+2022-02-09 18:44:16,524 - logger_File -INFO - scenarioRegister with Test Environment WebpageStarted
+2022-02-09 18:44:33,901 - logger_File -INFO - scenario Register with Test Environment Webpage UNDEFINED
+2022-02-09 18:46:57,183 - logger_File -INFO - scenarioUser verify currency values changeStarted
+2022-02-09 18:47:11,110 - logger_File -INFO - scenario User verify currency values change UNDEFINED
+2022-02-09 19:10:43,858 - logger_File -INFO - scenarioRegister as an Affiliate user with Cheque Payment MethodStarted
+2022-02-09 19:11:04,914 - logger_File -INFO - scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-02-09 19:29:08,444 - logger_File -INFO - scenarioRegister with Test Environment WebpageStarted
+2022-02-09 19:29:30,982 - logger_File -INFO - Text verified!
+2022-02-09 19:29:30,983 - logger_File -INFO - Homepage validated successfully
+2022-02-09 19:29:32,935 - logger_File -INFO - My account button was clicked successfully
+2022-02-09 19:29:33,700 - logger_File -INFO - Register button was clicked successfully
+2022-02-09 19:29:35,113 - logger_File -INFO - User data entered successfully
+2022-02-09 19:29:35,206 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-09 19:29:35,591 - logger_File -INFO - Continue button clicked successfully
+2022-02-09 19:29:43,784 - logger_File -INFO - scenario Register with Test Environment Webpage PASSED
+2022-02-09 19:39:58,854 - logger_File -INFO - scenarioRegister as an Affiliate user with Cheque Payment MethodStarted
+2022-02-09 19:54:43,240 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-09 19:55:10,444 - logger_File -INFO - scenario User verify all items are present in Desktops tab FAILED
+2022-02-09 19:55:10,519 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-09 19:55:15,959 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-09 19:55:15,976 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-09 19:55:22,030 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-02-09 19:55:22,051 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item inDesktops tabStarted
+2022-02-09 19:55:28,320 - logger_File -INFO - scenario User add a review to Canon EOS 5D item inDesktops tab FAILED
+2022-02-09 20:51:45,503 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-09 20:52:02,746 - logger_File -INFO - Text verified!
+2022-02-09 20:52:02,747 - logger_File -INFO - Homepage validated successfully
+2022-02-09 20:52:03,141 - logger_File -INFO - Currency dropdwon was clicked successfully
+2022-02-09 20:52:03,243 - logger_File -INFO - Currency was selected successfully
+2022-02-09 20:52:03,279 - logger_File -INFO - Currency is validated successfully
+2022-02-09 20:52:04,050 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-09 20:54:16,650 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-09 20:54:31,242 - logger_File -INFO - Scenario User verify all items are present in Desktops tab UNDEFINED
+2022-02-09 20:54:31,339 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-09 20:54:39,680 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-09 20:54:39,701 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-09 20:54:46,394 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-02-09 20:54:46,420 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-09 20:54:53,438 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2022-02-09 20:58:03,000 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-09 20:58:08,481 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 20:58:08,769 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 20:58:09,844 - logger_File -INFO - User click on MacBook item
+2022-02-09 20:58:12,859 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-02-09 20:58:12,883 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-09 20:58:20,241 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 20:58:20,643 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 20:58:20,728 - logger_File -INFO - user successfully click on product comparison icon on {string}
+2022-02-09 20:58:20,825 - logger_File -INFO - user successfully click on product comparison icon on {string}
+2022-02-09 20:58:20,877 - logger_File -INFO - macBookTextDescriptions
+2022-02-09 20:58:20,962 - logger_File -INFO - User successfully click on Product comparison link
+2022-02-09 20:58:21,667 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-02-09 20:58:21,681 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-09 20:58:25,752 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 20:58:26,061 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 20:58:26,789 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-09 20:58:26,802 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-09 20:58:31,167 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 20:58:31,490 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 20:58:32,140 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-09 23:23:16,854 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-09 23:23:43,463 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:23:44,018 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:23:49,600 - logger_File -INFO - User click on MacBook item
+2022-02-09 23:23:55,548 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-02-09 23:23:55,699 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-09 23:24:10,615 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:24:10,914 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:24:11,001 - logger_File -INFO - user successfully click on product comparison icon on {string}
+2022-02-09 23:24:11,088 - logger_File -INFO - user successfully click on product comparison icon on {string}
+2022-02-09 23:24:11,159 - logger_File -INFO - macBookTextDescriptions
+2022-02-09 23:24:13,415 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-02-09 23:24:13,430 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-09 23:24:21,479 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:24:21,999 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:24:22,757 - logger_File -INFO - Scenario Adding an item to Wish list FAILED
+2022-02-09 23:24:22,771 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-09 23:24:29,108 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:24:29,602 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:24:30,372 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 FAILED
+2022-02-09 23:30:50,677 - logger_File -INFO - scenarioAdd and Remove a Mac book from CartStarted
+2022-02-09 23:32:40,593 - logger_File -INFO - scenarioProduct ComparisonStarted
+2022-02-09 23:34:18,023 - logger_File -INFO - scenarioAdding an item to Wish listStarted
+2022-02-09 23:34:31,695 - logger_File -INFO - scenarioAdd and Remove a Mac book from CartStarted
+2022-02-09 23:37:56,498 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:37:56,943 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:37:57,264 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:37:57,961 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:38:08,523 - logger_File -INFO - User click on MacBook item
+2022-02-09 23:38:10,987 - logger_File -INFO - scenario Adding an item to Wish list FAILED
+2022-02-09 23:38:11,014 - logger_File -INFO - scenarioValidate the price of MacBook Pro is 2000Started
+2022-02-09 23:38:18,953 - logger_File -INFO - scenario Add and Remove a Mac book from Cart FAILED
+2022-02-09 23:38:19,109 - logger_File -INFO - scenarioProduct ComparisonStarted
+2022-02-09 23:38:49,591 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:38:50,057 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:38:50,638 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:38:50,763 - logger_File -INFO - user successfully click on product comparison icon on {string}
+2022-02-09 23:38:50,763 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:38:52,219 - logger_File -INFO - scenario Validate the price of MacBook Pro is 2000 FAILED
+2022-02-09 23:38:55,028 - logger_File -INFO - scenario Product Comparison FAILED
+2022-02-09 23:38:55,045 - logger_File -INFO - scenarioAdding an item to Wish listStarted
+2022-02-09 23:39:01,376 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:39:01,891 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:39:02,709 - logger_File -INFO - scenario Adding an item to Wish list FAILED
+2022-02-09 23:39:02,727 - logger_File -INFO - scenarioValidate the price of MacBook Pro is 2000Started
+2022-02-09 23:39:11,750 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:39:12,315 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:39:12,995 - logger_File -INFO - scenario Validate the price of MacBook Pro is 2000 FAILED
+2022-02-09 23:41:19,218 - logger_File -INFO - scenarioAdd and Remove a Mac book from CartStarted
+2022-02-09 23:41:34,224 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:41:35,174 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:41:36,657 - logger_File -INFO - User click on MacBook item
+2022-02-09 23:41:37,928 - logger_File -INFO - scenario Add and Remove a Mac book from Cart FAILED
+2022-02-09 23:41:37,980 - logger_File -INFO - scenarioProduct ComparisonStarted
+2022-02-09 23:41:44,187 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:41:47,575 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:41:47,665 - logger_File -INFO - user successfully click on product comparison icon on {string}
+2022-02-09 23:41:47,727 - logger_File -INFO - user successfully click on product comparison icon on {string}
+2022-02-09 23:41:49,127 - logger_File -INFO - macBookTextDescriptions
+2022-02-09 23:41:49,193 - logger_File -INFO - User successfully click on Product comparison link
+2022-02-09 23:41:51,555 - logger_File -INFO - User should see Product Comparison Chart
+2022-02-09 23:41:57,800 - logger_File -INFO - scenario Product Comparison PASSED
+2022-02-09 23:41:57,817 - logger_File -INFO - scenarioAdding an item to Wish listStarted
+2022-02-09 23:42:16,855 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:42:17,272 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:42:18,387 - logger_File -INFO - scenario Adding an item to Wish list FAILED
+2022-02-09 23:42:18,416 - logger_File -INFO - scenarioValidate the price of MacBook Pro is 2000Started
+2022-02-09 23:42:25,271 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:42:25,639 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:42:26,400 - logger_File -INFO - scenario Validate the price of MacBook Pro is 2000 FAILED
+2022-02-09 23:48:28,106 - logger_File -INFO - scenarioAdd and Remove a Mac book from CartStarted
+2022-02-09 23:48:37,544 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:48:41,584 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:48:54,178 - logger_File -INFO - User click on MacBook item
+2022-02-09 23:49:01,436 - logger_File -INFO - scenario Add and Remove a Mac book from Cart FAILED
+2022-02-09 23:49:01,478 - logger_File -INFO - scenarioProduct ComparisonStarted
+2022-02-09 23:49:06,832 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:49:07,116 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:49:07,207 - logger_File -INFO - user successfully click on product comparison icon on {string}
+2022-02-09 23:49:07,321 - logger_File -INFO - user successfully click on product comparison icon on {string}
+2022-02-09 23:49:07,492 - logger_File -INFO - macBookTextDescriptions
+2022-02-09 23:49:09,353 - logger_File -INFO - scenario Product Comparison FAILED
+2022-02-09 23:49:09,374 - logger_File -INFO - scenarioAdding an item to Wish listStarted
+2022-02-09 23:49:15,483 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:49:15,794 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:49:20,521 - logger_File -INFO - scenario Adding an item to Wish list FAILED
+2022-02-09 23:49:20,540 - logger_File -INFO - scenarioValidate the price of MacBook Pro is 2000Started
+2022-02-09 23:49:25,124 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-09 23:49:25,424 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-09 23:49:26,147 - logger_File -INFO - scenario Validate the price of MacBook Pro is 2000 FAILED
+2022-02-10 00:03:09,950 - logger_File -INFO - scenarioAdd and Remove a Mac book from CartStarted
+2022-02-10 00:03:25,168 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-10 00:03:25,976 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-10 00:03:29,071 - logger_File -INFO - User click on MacBook item
+2022-02-10 00:03:35,659 - logger_File -INFO - scenario Add and Remove a Mac book from Cart FAILED
+2022-02-10 00:03:35,773 - logger_File -INFO - scenarioProduct ComparisonStarted
+2022-02-10 00:03:48,884 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-10 00:03:49,600 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-10 00:03:49,689 - logger_File -INFO - user successfully click on product comparison icon on {string}
+2022-02-10 00:03:49,818 - logger_File -INFO - user successfully click on product comparison icon on {string}
+2022-02-10 00:03:49,986 - logger_File -INFO - macBookTextDescriptions
+2022-02-10 00:03:53,879 - logger_File -INFO - scenario Product Comparison FAILED
+2022-02-10 00:03:53,897 - logger_File -INFO - scenarioAdding an item to Wish listStarted
+2022-02-10 00:04:03,836 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-10 00:04:04,207 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-10 00:04:04,891 - logger_File -INFO - scenario Adding an item to Wish list FAILED
+2022-02-10 00:04:04,909 - logger_File -INFO - scenarioValidate the price of MacBook Pro is 2000Started
+2022-02-10 00:04:13,464 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-10 00:04:13,790 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-10 00:04:14,481 - logger_File -INFO - scenario Validate the price of MacBook Pro is 2000 FAILED
+2022-02-10 00:18:27,621 - logger_File -INFO - scenarioAdd and Remove a Mac book from CartStarted
+2022-02-10 00:19:27,470 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-10 00:19:29,677 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-10 00:19:43,641 - logger_File -INFO - User click on MacBook item
+2022-02-10 00:19:57,684 - logger_File -INFO - scenario Add and Remove a Mac book from Cart FAILED
+2022-02-10 00:19:57,722 - logger_File -INFO - scenarioProduct ComparisonStarted
+2022-02-10 00:20:28,549 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-10 00:20:30,642 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-10 00:20:30,894 - logger_File -INFO - user successfully click on product comparison icon on {string}
+2022-02-10 00:20:30,952 - logger_File -INFO - user successfully click on product comparison icon on {string}
+2022-02-10 00:20:32,010 - logger_File -INFO - macBookTextDescriptions
+2022-02-10 00:20:39,989 - logger_File -INFO - User successfully click on Product comparison link
+2022-02-10 00:21:19,104 - logger_File -INFO - scenario Product Comparison FAILED
+2022-02-10 00:21:19,147 - logger_File -INFO - scenarioAdding an item to Wish listStarted
+2022-02-10 00:21:37,557 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-10 00:21:38,707 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-10 00:21:43,195 - logger_File -INFO - scenario Adding an item to Wish list FAILED
+2022-02-10 00:21:43,214 - logger_File -INFO - scenarioValidate the price of MacBook Pro is 2000Started
+2022-02-10 00:22:02,960 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-10 00:22:04,421 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-10 00:22:05,584 - logger_File -INFO - scenario Validate the price of MacBook Pro is 2000 FAILED
+2022-02-10 14:43:56,602 - logger_File -INFO - scenarioAdd and Remove a Mac book from CartStarted
+2022-02-10 14:44:38,038 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-10 14:44:38,699 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-10 14:44:40,813 - logger_File -INFO - User click on MacBook item
+2022-02-10 14:44:45,896 - logger_File -INFO - scenario Add and Remove a Mac book from Cart FAILED
+2022-02-10 14:50:00,349 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-10 14:50:12,495 - logger_File -INFO - scenario User verify all items are present in Desktops tab FAILED
+2022-02-10 14:50:13,568 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-10 14:50:26,060 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-10 14:50:26,083 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-10 14:50:32,115 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-02-10 14:50:32,138 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item in Desktops tabStarted
+2022-02-10 14:50:38,210 - logger_File -INFO - scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-10 14:58:14,294 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-10 14:58:25,309 - logger_File -INFO - scenario User verify all items are present in Desktops tab FAILED
+2022-02-10 14:58:25,359 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-10 14:58:34,320 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-10 14:58:34,339 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-10 14:58:41,759 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-02-10 14:58:41,781 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item in Desktops tabStarted
+2022-02-10 14:58:49,655 - logger_File -INFO - scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-10 15:12:00,149 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-10 15:12:15,426 - logger_File -INFO - scenario User verify all items are present in Desktops tab FAILED
+2022-02-10 15:12:15,460 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-10 15:12:20,970 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-10 15:12:20,991 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-10 15:12:25,853 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-02-10 15:12:25,882 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item in Desktops tabStarted
+2022-02-10 15:12:31,477 - logger_File -INFO - scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-10 15:15:59,472 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-10 15:16:08,569 - logger_File -INFO - scenario User verify all items are present in Desktops tab FAILED
+2022-02-10 15:16:08,603 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-10 15:16:14,003 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-10 15:16:14,020 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-10 15:16:19,115 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-02-10 15:16:19,145 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item in Desktops tabStarted
+2022-02-10 15:16:24,345 - logger_File -INFO - scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-10 15:19:01,352 - logger_File -INFO - scenarioUser verify currency values changeStarted
+2022-02-10 15:19:07,835 - logger_File -INFO - Text verified!
+2022-02-10 15:19:07,835 - logger_File -INFO - Homepage validated successfully
+2022-02-10 15:19:08,462 - logger_File -INFO - Currency dropdwon was clicked successfully
+2022-02-10 15:19:08,669 - logger_File -INFO - Currency was selected successfully
+2022-02-10 15:19:08,704 - logger_File -INFO - Currency is validated successfully
+2022-02-10 15:19:09,457 - logger_File -INFO - scenario User verify currency values change PASSED
+2022-02-10 15:19:52,956 - logger_File -INFO - scenarioUser verify currency values changeStarted
+2022-02-10 15:19:59,475 - logger_File -INFO - Text verified!
+2022-02-10 15:19:59,476 - logger_File -INFO - Homepage validated successfully
+2022-02-10 15:19:59,797 - logger_File -INFO - Currency dropdwon was clicked successfully
+2022-02-10 15:19:59,890 - logger_File -INFO - Currency was selected successfully
+2022-02-10 15:19:59,928 - logger_File -INFO - Currency is validated successfully
+2022-02-10 15:20:00,713 - logger_File -INFO - scenario User verify currency values change PASSED
+2022-02-10 17:45:28,457 - logger_File -INFO - scenarioRegister as an Affiliate user with Cheque Payment MethodStarted
+2022-02-10 17:46:38,013 - logger_File -INFO - scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-02-10 17:46:38,185 - logger_File -INFO - scenarioEdit your affiliate information from Cheque payment method to Bank TransferStarted
+2022-02-10 17:46:52,485 - logger_File -INFO - scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-02-10 17:46:52,573 - logger_File -INFO - scenarioEdit your account InformationStarted
+2022-02-10 17:47:08,079 - logger_File -INFO - scenario Edit your account Information UNDEFINED
+2022-02-10 18:01:20,502 - logger_File -INFO - scenarioUser verify currency values changeStarted
+2022-02-10 18:02:00,682 - logger_File -INFO - Text verified!
+2022-02-10 18:02:00,683 - logger_File -INFO - Homepage validated successfully
+2022-02-10 18:02:01,879 - logger_File -INFO - Currency dropdwon was clicked successfully
+2022-02-10 18:02:02,219 - logger_File -INFO - Currency was selected successfully
+2022-02-10 18:02:02,282 - logger_File -INFO - Currency is validated successfully
+2022-02-10 18:02:03,778 - logger_File -INFO - scenario User verify currency values change PASSED
+2022-02-10 19:46:08,052 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-10 19:46:29,801 - logger_File -INFO - scenario User verify all items are present in Desktops tab FAILED
+2022-02-10 19:46:29,869 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-10 19:46:34,991 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-10 19:46:35,011 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-10 19:46:39,675 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-02-10 19:46:39,700 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item in Desktops tabStarted
+2022-02-10 19:46:44,762 - logger_File -INFO - scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-10 19:49:23,536 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-10 19:50:29,446 - logger_File -INFO - scenario User verify all items are present in Desktops tab FAILED
+2022-02-10 19:50:29,640 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-10 19:50:49,567 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-10 19:50:49,592 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-10 19:51:02,019 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-02-10 19:51:02,045 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item in Desktops tabStarted
+2022-02-10 19:51:10,190 - logger_File -INFO - scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-14 10:18:00,248 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-14 10:18:39,697 - logger_File -INFO - scenario User verify all items are present in Desktops tab FAILED
+2022-02-14 10:18:39,963 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-14 10:18:53,668 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-14 10:18:53,691 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-14 10:19:07,894 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-02-14 10:19:07,929 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item in Desktops tabStarted
+2022-02-14 10:19:15,388 - logger_File -INFO - scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-14 11:23:26,337 - logger_File -INFO - scenarioUser verify currency values changeStarted
+2022-02-14 11:23:50,269 - logger_File -INFO - Text verified!
+2022-02-14 11:23:50,270 - logger_File -INFO - Homepage validated successfully
+2022-02-14 11:23:50,773 - logger_File -INFO - Currency dropdwon was clicked successfully
+2022-02-14 11:23:50,983 - logger_File -INFO - Currency was selected successfully
+2022-02-14 11:23:51,018 - logger_File -INFO - Currency is validated successfully
+2022-02-14 11:23:53,895 - logger_File -INFO - scenario User verify currency values change PASSED
+2022-02-14 11:26:05,724 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-14 11:26:20,827 - logger_File -INFO - scenario User verify all items are present in Desktops tab FAILED
+2022-02-14 11:26:21,024 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-14 11:26:33,992 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-14 11:26:34,014 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-14 11:26:46,357 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-02-14 11:26:46,444 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item in Desktops tabStarted
+2022-02-14 11:26:53,060 - logger_File -INFO - scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-14 11:31:37,336 - logger_File -INFO - scenarioUser verify currency values changeStarted
+2022-02-14 11:32:04,110 - logger_File -INFO - Text verified!
+2022-02-14 11:32:04,111 - logger_File -INFO - Homepage validated successfully
+2022-02-14 11:32:04,925 - logger_File -INFO - Currency dropdwon was clicked successfully
+2022-02-14 11:32:05,203 - logger_File -INFO - Currency was selected successfully
+2022-02-14 11:32:05,289 - logger_File -INFO - Currency is validated successfully
+2022-02-14 11:32:08,779 - logger_File -INFO - scenario User verify currency values change PASSED
+2022-02-14 11:33:42,974 - logger_File -INFO - scenarioAdd and Remove a Mac book from CartStarted
+2022-02-14 11:33:57,134 - logger_File -INFO - User click on Laptop & NoteBook tab
+2022-02-14 11:33:57,625 - logger_File -INFO - User click on Show all Laptop & NoteBook option
+2022-02-14 11:34:01,299 - logger_File -INFO - User click on MacBook item
+2022-02-14 11:34:06,842 - logger_File -INFO - scenario Add and Remove a Mac book from Cart FAILED
+2022-02-14 11:40:56,048 - logger_File -INFO - scenarioLogin to Test Environment Retail PageStarted
+2022-02-14 11:41:09,883 - logger_File -INFO - Text verified!
+2022-02-14 11:41:09,883 - logger_File -INFO - Homepage validated successfully
+2022-02-14 11:41:10,864 - logger_File -INFO - My account button was clicked successfully
+2022-02-14 11:41:11,185 - logger_File -INFO - Login button was clicked successfully
+2022-02-14 11:41:12,316 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-14 11:41:14,229 - logger_File -INFO - Login button was clicked successfully
+2022-02-14 11:41:16,940 - logger_File -INFO - scenario Login to Test Environment Retail Page PASSED
+2022-02-14 11:42:38,196 - logger_File -INFO - scenarioRegister with Test Environment WebpageStarted
+2022-02-14 11:42:47,536 - logger_File -INFO - Text verified!
+2022-02-14 11:42:47,536 - logger_File -INFO - Homepage validated successfully
+2022-02-14 11:42:47,898 - logger_File -INFO - My account button was clicked successfully
+2022-02-14 11:42:48,944 - logger_File -INFO - Register button was clicked successfully
+2022-02-14 11:42:49,782 - logger_File -INFO - User data entered successfully
+2022-02-14 11:42:49,869 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-14 11:42:50,124 - logger_File -INFO - Continue button clicked successfully
+2022-02-14 11:42:56,892 - logger_File -INFO - scenario Register with Test Environment Webpage PASSED
+2022-02-14 11:51:04,001 - logger_File -INFO - scenarioLogin to Test Environment Retail PageStarted
+2022-02-14 11:51:19,152 - logger_File -INFO - Text verified!
+2022-02-14 11:51:19,153 - logger_File -INFO - Homepage validated successfully
+2022-02-14 11:51:20,592 - logger_File -INFO - My account button was clicked successfully
+2022-02-14 11:51:21,468 - logger_File -INFO - Login button was clicked successfully
+2022-02-14 11:51:23,301 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-14 11:51:23,911 - logger_File -INFO - Login button was clicked successfully
+2022-02-14 11:51:28,570 - logger_File -INFO - scenario Login to Test Environment Retail Page PASSED
+2022-02-14 12:15:33,647 - logger_File -INFO - scenarioUser verify currency values changeStarted
+2022-02-14 12:16:10,041 - logger_File -INFO - Text verified!
+2022-02-14 12:16:10,041 - logger_File -INFO - Homepage validated successfully
+2022-02-14 12:16:10,944 - logger_File -INFO - Currency dropdwon was clicked successfully
+2022-02-14 12:16:11,276 - logger_File -INFO - Currency was selected successfully
+2022-02-14 12:16:11,340 - logger_File -INFO - Currency is validated successfully
+2022-02-14 12:16:12,724 - logger_File -INFO - scenario User verify currency values change PASSED
+2022-02-22 16:28:14,828 - logger_File -INFO - scenarioUser verify currency values changeStarted
+2022-02-22 16:29:44,190 - logger_File -INFO - Text verified!
+2022-02-22 16:29:44,190 - logger_File -INFO - Homepage validated successfully
+2022-02-22 16:29:45,209 - logger_File -INFO - Currency dropdwon was clicked successfully
+2022-02-22 16:29:45,629 - logger_File -INFO - Currency was selected successfully
+2022-02-22 16:29:45,699 - logger_File -INFO - Currency is validated successfully
+2022-02-22 16:29:48,721 - logger_File -INFO - scenario User verify currency values change PASSED
+2022-02-22 19:00:06,063 - logger_File -INFO - scenarioLogin to Test Environment Retail PageStarted
+2022-02-22 19:00:31,116 - logger_File -INFO - scenarioRegister with Test Environment WebpageStarted
+2022-02-22 19:01:18,619 - logger_File -INFO - Text verified!
+2022-02-22 19:01:18,620 - logger_File -INFO - Homepage validated successfully
+2022-02-22 19:01:20,346 - logger_File -INFO - My account button was clicked successfully
+2022-02-22 19:01:21,488 - logger_File -INFO - Register button was clicked successfully
+2022-02-22 19:01:22,602 - logger_File -INFO - User data entered successfully
+2022-02-22 19:01:22,684 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-22 19:01:23,052 - logger_File -INFO - Continue button clicked successfully
+2022-02-22 19:01:30,542 - logger_File -INFO - scenario Register with Test Environment Webpage PASSED
+2022-02-22 19:03:06,668 - logger_File -INFO - scenarioLogin to Test Environment Retail PageStarted
+2022-02-22 19:03:16,624 - logger_File -INFO - Text verified!
+2022-02-22 19:03:16,624 - logger_File -INFO - Homepage validated successfully
+2022-02-22 19:03:17,255 - logger_File -INFO - My account button was clicked successfully
+2022-02-22 19:03:18,435 - logger_File -INFO - Login button was clicked successfully
+2022-02-22 19:03:19,237 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-22 19:03:19,675 - logger_File -INFO - Login button was clicked successfully
+2022-02-22 19:03:24,588 - logger_File -INFO - scenario Login to Test Environment Retail Page PASSED
+2022-02-22 19:03:24,618 - logger_File -INFO - scenarioRegister with Test Environment WebpageStarted
+2022-02-22 19:03:39,876 - logger_File -INFO - Text verified!
+2022-02-22 19:03:39,876 - logger_File -INFO - Homepage validated successfully
+2022-02-22 19:03:40,372 - logger_File -INFO - My account button was clicked successfully
+2022-02-22 19:03:41,340 - logger_File -INFO - Register button was clicked successfully
+2022-02-22 19:03:42,548 - logger_File -INFO - User data entered successfully
+2022-02-22 19:03:42,660 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-22 19:03:43,051 - logger_File -INFO - Continue button clicked successfully
+2022-02-22 19:03:50,168 - logger_File -INFO - scenario Register with Test Environment Webpage PASSED
+2022-02-22 19:04:49,992 - logger_File -INFO - scenarioRegister as an Affiliate user with Cheque Payment MethodStarted
+2022-02-22 19:05:01,571 - logger_File -INFO - Text verified!
+2022-02-22 19:05:01,571 - logger_File -INFO - Homepage validated successfully
+2022-02-22 19:05:02,079 - logger_File -INFO - My account button was clicked successfully
+2022-02-22 19:05:02,688 - logger_File -INFO - Register button was clicked successfully
+2022-02-22 19:05:03,351 - logger_File -INFO - User data entered successfully
+2022-02-22 19:05:03,423 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-22 19:05:04,003 - logger_File -INFO - Continue button clicked successfully
+2022-02-22 19:05:44,737 - logger_File -INFO - scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-22 19:09:02,346 - logger_File -INFO - scenarioRegister with Test Environment WebpageStarted
+2022-02-22 19:09:23,969 - logger_File -INFO - Text verified!
+2022-02-22 19:09:23,969 - logger_File -INFO - Homepage validated successfully
+2022-02-22 19:09:25,823 - logger_File -INFO - My account button was clicked successfully
+2022-02-22 19:09:27,278 - logger_File -INFO - Register button was clicked successfully
+2022-02-22 19:09:29,816 - logger_File -INFO - User data entered successfully
+2022-02-22 19:09:29,921 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-22 19:09:30,270 - logger_File -INFO - Continue button clicked successfully
+2022-02-22 19:09:37,658 - logger_File -INFO - scenario Register with Test Environment Webpage PASSED
+2022-02-22 19:16:02,470 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-22 19:17:05,317 - logger_File -INFO - scenario User verify all items are present in Desktops tab UNDEFINED
+2022-02-22 19:17:05,473 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-22 19:17:24,263 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-22 19:17:24,280 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-22 19:17:44,610 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-02-22 19:17:44,711 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item in Desktops tabStarted
+2022-02-22 19:17:57,510 - logger_File -INFO - scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2022-02-22 19:18:57,702 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-22 19:19:15,625 - logger_File -INFO - scenario User verify all items are present in Desktops tab UNDEFINED
+2022-02-22 19:19:15,647 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-22 19:19:27,401 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-22 19:19:27,414 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-22 19:19:40,794 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-02-22 19:19:40,825 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item in Desktops tabStarted
+2022-02-22 19:19:48,213 - logger_File -INFO - scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2022-02-22 19:24:21,952 - logger_File -INFO - scenarioUser verify all items are present in Desktops tabStarted
+2022-02-22 19:24:36,570 - logger_File -INFO - scenario User verify all items are present in Desktops tab FAILED
+2022-02-22 19:24:36,688 - logger_File -INFO - scenarioUser add HP LP 3065 from Desktops tab to the cartStarted
+2022-02-22 19:24:46,058 - logger_File -INFO - scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-22 19:24:46,077 - logger_File -INFO - scenarioUser add Canon EOS 5D from Desktops tab to the cartStarted
+2022-02-22 19:24:56,833 - logger_File -INFO - scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-02-22 19:24:56,852 - logger_File -INFO - scenarioUser add a review to Canon EOS 5D item in Desktops tabStarted
+2022-02-22 19:25:05,465 - logger_File -INFO - scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-22 19:26:07,410 - logger_File -INFO - scenarioLogin to Test Environment Retail PageStarted
+2022-02-22 19:26:19,775 - logger_File -INFO - Text verified!
+2022-02-22 19:26:19,776 - logger_File -INFO - Homepage validated successfully
+2022-02-22 19:26:23,484 - logger_File -INFO - My account button was clicked successfully
+2022-02-22 19:26:23,987 - logger_File -INFO - Login button was clicked successfully
+2022-02-22 19:26:24,314 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-22 19:26:24,679 - logger_File -INFO - Login button was clicked successfully
+2022-02-22 19:26:25,555 - logger_File -INFO - scenario Login to Test Environment Retail Page PASSED
+2022-02-22 19:26:25,607 - logger_File -INFO - scenarioRegister with Test Environment WebpageStarted
+2022-02-22 19:26:31,710 - logger_File -INFO - Text verified!
+2022-02-22 19:26:31,710 - logger_File -INFO - Homepage validated successfully
+2022-02-22 19:26:32,049 - logger_File -INFO - My account button was clicked successfully
+2022-02-22 19:26:32,642 - logger_File -INFO - Register button was clicked successfully
+2022-02-22 19:26:33,353 - logger_File -INFO - User data entered successfully
+2022-02-22 19:26:33,495 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-22 19:26:33,805 - logger_File -INFO - Continue button clicked successfully
+2022-02-22 19:26:40,836 - logger_File -INFO - scenario Register with Test Environment Webpage PASSED
+2022-02-22 19:28:47,882 - logger_File -INFO - scenarioUser verify currency values changeStarted
+2022-02-22 19:29:02,025 - logger_File -INFO - Text verified!
+2022-02-22 19:29:02,025 - logger_File -INFO - Homepage validated successfully
+2022-02-22 19:29:02,727 - logger_File -INFO - Currency dropdwon was clicked successfully
+2022-02-22 19:29:02,941 - logger_File -INFO - Currency was selected successfully
+2022-02-22 19:29:02,993 - logger_File -INFO - Currency is validated successfully
+2022-02-22 19:29:04,032 - logger_File -INFO - scenario User verify currency values change PASSED
